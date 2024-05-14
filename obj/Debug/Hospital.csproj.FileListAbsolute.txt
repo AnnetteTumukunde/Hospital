@@ -1,0 +1,14 @@
+E:\School\Dot Net\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+E:\School\Dot Net\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+E:\School\Dot Net\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.DoctorPanel.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.Manager.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.PatientPanel.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.signup.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+E:\School\Dot Net\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
